@@ -40,12 +40,21 @@ A typical X.com scraping configuration looks like this:
 
 ```json
 {
-  "searchTerms": "#webscraping OR #dataextraction",
-  "maxItems": 500,
-  "sort": "Latest",
-  "tweetLanguage": "en",
-  "onlyVerifiedUsers": false,
-  "includeSearchTerms": true
+    "includeSearchTerms": false,
+    "onlyImage": false,
+    "onlyQuote": false,
+    "onlyTwitterBlue": false,
+    "onlyVerifiedUsers": false,
+    "onlyVideo": false,
+    "searchTerms": [
+        "from:elonmusk AI since:2023-01-01 until:2023-03-01",
+        "from:elonmusk AI since:2023-03-01 until:2023-05-01",
+        "from:elonmusk AI since:2023-05-01 until:2023-07-01",
+        "from:elonmusk AI since:2023-07-01 until:2023-09-01",
+        "from:elonmusk AI since:2023-09-01 until:2023-12-01"
+    ],
+    "sort": "Top",
+    "tweetLanguage": "en"
 }
 ```
 
