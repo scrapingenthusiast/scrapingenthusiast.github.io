@@ -1,7 +1,7 @@
 ---
 title: "How to Scrape TikTok User Data Without Writing a Single Line of Code"
 date: 2026-03-20
-permalink: /scrape-tiktok-user-data-no-code/
+permalink: /tiktok/scrape-tiktok-user-data-no-code/
 tags: [TikTok, No-Code, API, Data Extraction]
 author: Novi Develop
 description: "Learn how to extract TikTok user profiles, follower counts, and video metadata using no-code tools and ready-made APIs. Perfect for marketers and researchers."
