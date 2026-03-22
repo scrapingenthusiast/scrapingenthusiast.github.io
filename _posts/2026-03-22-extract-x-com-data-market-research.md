@@ -1,6 +1,7 @@
 ---
 title: "Complete Guide: Extracting X.com (Twitter) Data for Market Research"
 date: 2026-03-22
+permalink: /extract-x-com-data-market-research/
 tags: [X.com, Twitter, Market Research, API]
 author: Novi Develop
 description: "A step-by-step guide to extracting tweets, user profiles, and engagement data from X.com using no-code data extraction tools."
