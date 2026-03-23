@@ -11,6 +11,7 @@ github_username: scrapingenthusiast
 author: Novi Develop
 
 # Custom variables
+timezone: Asia/Ho_Chi_Minh
 tagline: "No-Code Web Scraping"
 hero_title: "Learn Data Extraction "
 hero_highlight: "The No-Code Way"
