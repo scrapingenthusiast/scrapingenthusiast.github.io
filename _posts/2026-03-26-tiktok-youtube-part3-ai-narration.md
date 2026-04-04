@@ -326,6 +326,8 @@ Expected output:
 
 In [Part 4](/tiktok/tiktok-youtube-part4-scheduling-publishing/), we'll upload these compiled news segments to YouTube using the YouTube Data API, and set up Apify scheduling to run this entire pipeline automatically every 12 hours.
 
+> **Looking for more TikTok data sources?** Beyond keyword search, you can also pull trending videos, user profiles, hashtags, and comments. Browse our full collection of [TikTok and Twitter scraping tools](/tools/) to expand your data pipeline.
+
 > **Series Navigation**
 > - [Part 1: Searching TikTok with the Apify Python Client](/tiktok/tiktok-youtube-part1-searching-api/)
 > - [Part 2: Downloading & Organizing Video Files](/tiktok/tiktok-youtube-part2-downloading-videos/)

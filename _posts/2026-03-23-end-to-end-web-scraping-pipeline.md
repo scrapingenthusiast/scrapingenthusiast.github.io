@@ -110,6 +110,7 @@ A price tracker is useless if it doesn't run continuously.
 Deploy your script to run at fixed intervals.
 * **Lightweight:** Use a standard Linux **`cron`** job or **GitHub Actions** (using scheduled workflow dispatches).
 * **Enterprise:** Use workflow orchestration tools like **Apache Airflow** to manage retries, dependencies, and complex schedules.
+* **Managed:** Alternatively, skip infrastructure management entirely with pre-built [scraping tools](/tools/) on platforms like Apify — they handle scheduling, proxies, and anti-bot evasion out of the box.
 
 ### 2. Event Notifications
 Set up logic to act on the data. Compare the newly inserted `price_current` against the previous database entry. If the price drops below a threshold, trigger an HTTP POST request to a **Slack or Discord Webhook** to notify you instantly.
