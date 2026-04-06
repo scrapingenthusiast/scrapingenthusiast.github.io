@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 1): Performance Benchmarks & The Core Query Loop"
-date: 2026-04-06
+date: 2026-04-06 10:00:00 +0700
 permalink: /performance/claude-code-architecture-performance-loop/
 tags: [Performance, Node.js, Async Streams, System Architecture]
 author: Scraping Enthusiast

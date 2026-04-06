@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 2): Optimizing Agentic Search via Ripgrep"
-date: 2026-04-06
+date: 2026-04-06 11:00:00 +0700
 permalink: /performance/claude-code-agentic-search-optimization/
 tags: [Ripgrep, Search Performance, Binary Execution, Memory Optimization]
 author: Scraping Enthusiast

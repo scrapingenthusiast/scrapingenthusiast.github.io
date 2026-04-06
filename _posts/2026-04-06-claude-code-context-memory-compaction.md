@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Claude Code Architecture (Part 3): Masterclass in Memory & Context Compaction"
-date: 2026-04-06
+date: 2026-04-06 12:00:00 +0700
 permalink: /performance/claude-code-context-memory-compaction/
 tags: [Token Budget, Memory Storage, LLM Limits, Context Management]
 author: Scraping Enthusiast
