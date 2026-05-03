@@ -28,7 +28,7 @@ To understand the power of this data, look at high-growth markets like Vietnam. 
 
 Scraping TikTok yourself is notoriously difficult due to aggressive anti-bot measures. The smartest approach is to decouple your extraction layer from your data storage using a reliable API. 
 
-We recommend using the **novi/tiktok-scraper-ultimate** Actor on Apify. It bypasses CAPTCHAs and network restrictions for you, returning clean JSON data.
+We recommend using the **[TikTok Scraper Ultimate](https://apify.com/novi/tiktok-scraper-ultimate?fpr=7hce1m)** Actor on Apify. It bypasses CAPTCHAs and network restrictions for you, returning clean JSON data.
 
 ### Step 1: Configure Your Search Parameters
 
