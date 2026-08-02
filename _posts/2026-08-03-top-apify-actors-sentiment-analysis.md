@@ -12,7 +12,7 @@ description: "Explore the top Apify Actors for harvesting sentiment data from Go
 
 Understanding public opinion is vital for modern market research, brand protection, and product optimization. But before you can run sentiment classification algorithms or feed natural language processing (NLP) models, you need clean, structured, and reliable data from web sources.
 
-[Apify](https://apify.com/use-cases/sentiment-analysis) provides a vast store of pre-built serverless scrapers known as **Actors**. In this review, we break down the top Apify Actors for sentiment analysis across e-commerce reviews, social media networks, and unstructured web content.
+[Apify](https://apify.com/use-cases/sentiment-analysis?fpr=7hce1m) provides a vast store of pre-built serverless scrapers known as **Actors**. In this review, we break down the top Apify Actors for sentiment analysis across e-commerce reviews, social media networks, and unstructured web content.
 
 ---
 
@@ -20,19 +20,19 @@ Understanding public opinion is vital for modern market research, brand protecti
 
 Customer feedback on review portals is a rich source for sentiment analysis, allowing teams to analyze brand perception and product satisfaction.
 
-### 📍 Google Maps Reviews Scraper (`compass/google-maps-reviews-scraper`)
+### 📍 Google Maps Reviews Scraper ([`compass/google-maps-reviews-scraper`](https://apify.com/compass/google-maps-reviews-scraper?fpr=7hce1m))
 - **Use Case:** Local business review extraction & franchise brand monitoring.
 - **Data Collected:** Review text, star rating, published date, owner replies, and reviewer profiles.
 - **Why Use It:** Ideal for analyzing customer satisfaction shifts, location-based service issues, and owner engagement over time.
 
-### 🛒 Amazon Reviews Scraper (`junglee/amazon-reviews-scraper`)
+### 🛒 Amazon Reviews Scraper ([`junglee/amazon-reviews-scraper`](https://apify.com/junglee/amazon-reviews-scraper?fpr=7hce1m))
 - **Use Case:** E-commerce feedback and competitive product sentiment.
 - **Data Collected:** Full review text, rating score, verified buyer badge, attached images, and helpfulness metrics.
 - **Why Use It:** Helps e-commerce brands spot recurring defect reports, feature requests, and customer pain points.
 
 ### 🏨 Booking & Facebook Reviews Scrapers
-- **Facebook Reviews Scraper (`apify/facebook-reviews-scraper`):** Extracts reviews from Facebook business pages.
-- **Booking Reviews Scraper (`voyager/booking-reviews-scraper`):** Captures detailed hotel/resort guest reviews, room types, and liked/disliked pros & cons.
+- **Facebook Reviews Scraper ([`apify/facebook-reviews-scraper`](https://apify.com/apify/facebook-reviews-scraper?fpr=7hce1m)):** Extracts reviews from Facebook business pages.
+- **Booking Reviews Scraper ([`voyager/booking-reviews-scraper`](https://apify.com/voyager/booking-reviews-scraper?fpr=7hce1m)):** Captures detailed hotel/resort guest reviews, room types, and liked/disliked pros & cons.
 
 ---
 
@@ -40,17 +40,17 @@ Customer feedback on review portals is a rich source for sentiment analysis, all
 
 Social platforms deliver high-frequency sentiment data, catching viral trends and consumer sentiment in real time.
 
-### 🎵 Fast TikTok Scraper & Comment Scraper (`xtdata/tiktok-scraper` & `xtdata/tiktok-comment-scraper`)
+### 🎵 Fast TikTok Scraper & Comment Scraper ([`xtdata/tiktok-scraper`](https://apify.com/xtdata/tiktok-scraper?fpr=7hce1m) & [`xtdata/tiktok-comment-scraper`](https://apify.com/xtdata/tiktok-comment-scraper?fpr=7hce1m))
 - **Use Case:** Short-form video comment sentiment, viral campaign tracking, and audience feedback loops.
 - **Data Collected:** Video metadata, captions, top comments, nested comment replies, and user profiles.
 - **Why Use It:** Developed by the Novi / xtdata team, these Actors offer high-speed pay-per-result extraction without requiring external proxy configuration.
 
-### 🐦 X.com (Twitter) API Scraper (`xtdata/twitter-x-scraper`)
+### 🐦 X.com (Twitter) API Scraper ([`xtdata/twitter-x-scraper`](https://apify.com/xtdata/twitter-x-scraper?fpr=7hce1m))
 - **Use Case:** Real-time brand monitoring, market sentiment analysis, and PR crisis tracking on X.com.
 - **Data Collected:** Historical tweets, user bios, engagement counts, search results, and reply threads.
 - **Why Use It:** A cost-effective ($~0.50/1,000 tweets) no-code solution for harvesting targeted X.com sentiment data with powerful sorting and media filters.
 
-### 🤖 Social Media Sentiment Analysis Tool (`tri_angle/social-media-sentiment-analysis-tool`)
+### 🤖 Social Media Sentiment Analysis Tool ([`tri_angle/social-media-sentiment-analysis-tool`](https://apify.com/tri_angle/social-media-sentiment-analysis-tool?fpr=7hce1m))
 - **Use Case:** Automated multi-channel social sentiment extraction.
 - **Data Collected:** Scrapes recent posts & comments from Facebook, Instagram, and TikTok, automatically classifying sentiment polarity (positive, neutral, negative).
 
@@ -60,9 +60,9 @@ Social platforms deliver high-frequency sentiment data, catching viral trends an
 
 To process unstructured articles or run AI-assisted sentiment scoring directly:
 
-- **Website Content Crawler (`apify/website-content-crawler`):** Crawls sites and converts content to clean Markdown for RAG pipelines and LLM sentiment prompts.
-- **AI Text Analyzer for Google Reviews (`geneea-analytics/reviews-text-nlp-analyzer`):** Runs NLP topic extraction to group reviews by sentiment and sentiment drivers.
-- **Sentiment Analysis Online Tool (`tri_angle/sentiment-analysis-online-tool`):** AI-powered Actor evaluating batches of text and producing sentiment scores (0 to 1).
+- **Website Content Crawler ([`apify/website-content-crawler`](https://apify.com/apify/website-content-crawler?fpr=7hce1m)):** Crawls sites and converts content to clean Markdown for RAG pipelines and LLM sentiment prompts.
+- **AI Text Analyzer for Google Reviews ([`geneea-analytics/reviews-text-nlp-analyzer`](https://apify.com/geneea-analytics/reviews-text-nlp-analyzer?fpr=7hce1m)):** Runs NLP topic extraction to group reviews by sentiment and sentiment drivers.
+- **Sentiment Analysis Online Tool ([`tri_angle/sentiment-analysis-online-tool`](https://apify.com/tri_angle/sentiment-analysis-online-tool?fpr=7hce1m)):** AI-powered Actor evaluating batches of text and producing sentiment scores (0 to 1).
 
 ---
 
