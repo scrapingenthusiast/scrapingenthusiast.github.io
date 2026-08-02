@@ -40,15 +40,15 @@ Customer feedback on review portals is a rich source for sentiment analysis, all
 
 Social platforms deliver high-frequency sentiment data, catching viral trends and consumer sentiment in real time.
 
-### 🎵 TikTok Scraper (`clockworks/tiktok-scraper` & `xtdata/tiktok-comment-scraper`)
-- **Use Case:** Short-form video comment sentiment, hashtag trend monitoring, and influencer feedback.
-- **Data Collected:** Video metadata, captions, top comments, comment reply chains, and user profile metrics.
-- **Why Use It:** Essential for monitoring audience reactions to viral campaigns and product unboxings on TikTok.
+### 🎵 Fast TikTok Scraper & Comment Scraper (`xtdata/tiktok-scraper` & `xtdata/tiktok-comment-scraper`)
+- **Use Case:** Short-form video comment sentiment, viral campaign tracking, and audience feedback loops.
+- **Data Collected:** Video metadata, captions, top comments, nested comment replies, and user profiles.
+- **Why Use It:** Developed by the Novi / xtdata team, these Actors offer high-speed pay-per-result extraction without requiring external proxy configuration.
 
-### 🐦 Tweet Scraper V2 (`apidojo/tweet-scraper`)
-- **Use Case:** Fast-breaking news sentiment, financial market commentary, and PR crisis tracking.
-- **Data Collected:** Tweet text, engagement stats, user bios, search queries, and reply threads.
-- **Why Use It:** High speed ($0.40/1,000 tweets) makes it the industry choice for tracking real-time public sentiment on X (Twitter).
+### 🐦 X.com (Twitter) API Scraper (`xtdata/twitter-x-scraper`)
+- **Use Case:** Real-time brand monitoring, market sentiment analysis, and PR crisis tracking on X.com.
+- **Data Collected:** Historical tweets, user bios, engagement counts, search results, and reply threads.
+- **Why Use It:** A cost-effective ($~0.50/1,000 tweets) no-code solution for harvesting targeted X.com sentiment data with powerful sorting and media filters.
 
 ### 🤖 Social Media Sentiment Analysis Tool (`tri_angle/social-media-sentiment-analysis-tool`)
 - **Use Case:** Automated multi-channel social sentiment extraction.
